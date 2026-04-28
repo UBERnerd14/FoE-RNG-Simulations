@@ -2,7 +2,7 @@
 #
 # Seed Vault Diamond Collection Simulation
 #  - Determines average days between diamond productions from a level 100 SV
-#  - Graphs distribution of days probabilities
+#  - Graphs distribution probabilities
 #
 # ---------------------------------------------------------------------
 #
@@ -13,7 +13,7 @@
 #
 # Change these options to build a custom simulation!
 
-trials = 10000          # How many simulations of wishing well collections to run
+trials = 10000          # How many simulations of SV aids to run
 successful_aids = 250   # How many aids
 
 # ---------------------------------------------------------------------
